@@ -25,7 +25,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/eclipse/paho.mqtt.golang/packets"
+	"github.com/12bchl/paho.mqtt.golang/packets"
 )
 
 const (
