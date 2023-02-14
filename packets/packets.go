@@ -88,7 +88,7 @@ const (
 const (
 	ConnackUnspecifiedError            = 0x80
 	ConnackMalformedPacket             = 0x81
-	ConnackProtocolError               = 0x81
+	ConnackProtocolError               = 0x82
 	ConnackImplementationSpecificError = 0x83
 	ConnackUnsupportedProtocolVersion  = 0x84
 	ConnackInvalidClientID             = 0x85
